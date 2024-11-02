@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # test_panji
 
 A new Flutter project.
@@ -19,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # Flutter_Test
 Testing push project flutter
 >>>>>>> d5d6e37ea77d02a4e3b5ef6cab05a8ae9a0068d2
+=======
+# Tugas_Pemrograman_Mobile-2
+Tugas_Pemrograman_Mobile-2
+>>>>>>> 44823cbd45cc37baeb5a12212857a8baa6159c1a
